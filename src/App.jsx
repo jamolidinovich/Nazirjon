@@ -6,7 +6,7 @@ import {
   FaGlobe,
 } from 'react-icons/fa';
 import profileImage from '../public/photo_2024-08-27_19-31-28.jpg'; // Add the correct path to your profile image
-import { IoLogoInstagram } from 'react-icons/io';
+// import { IoLogoInstagram } from 'react-icons/io';
 import { SiTelegram } from 'react-icons/si';
 import { AiFillInstagram } from 'react-icons/ai';
 
@@ -29,7 +29,7 @@ function BusinessCard() {
               Nazirjon Nazirjonov
             </h1>
             <h2 className="text-md md:text-lg text-yellow-600 mt-1">
-              Central Asian Medical University, 2-bosqich talabasi, bulajak
+              Central Asian Medical University, 2-bosqich talabasi, bo'lajak
               (nevrolog) med bloger😎
             </h2>
             <div className="mt-4 space-y-2">
